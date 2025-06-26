@@ -1,1 +1,1 @@
-print("Hello_Word_2")
+print("New_Hello_Word_2")
